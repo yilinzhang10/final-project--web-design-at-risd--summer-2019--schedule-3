@@ -28,7 +28,7 @@ I encourage you to consider both traditional web design elements (navigations on
 
 ## The Rules
 * Your project must be a multi-page site consisting of at least three pages: `about`, `contact`, `gallery/portfolio`.
-* Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
+* Only submit files that are required by your project: Do not submit working files, such as `.psd`, `ai`, `.indd`, or `.sketch` files.
 * Use lowercase, combined with kebab case, to name folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
 * Do not alter or remove the `reset.css` file in the `css` folder.
 * Do not alter or remove any of the `.gitignore` files.
