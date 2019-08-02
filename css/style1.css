@@ -1,0 +1,30 @@
+/* .homepage{
+   margin-left: 300px;
+   } */
+body{
+   font-weight: 700;
+   font-size: 25px;
+   font-family:Kalam, regular;
+   margin-left: 550px;
+   margin-top: 330px;
+   background: url('file:///Users/zealin10/Desktop/final-project--web-design-at-risd--summer-2019--schedule-3/img/homepage.jpg');
+   background-size:1450px 1250px;
+   background-attachment:scroll;
+
+}
+a:link {
+color:#FFFFFF;
+text-decoration:none;
+}
+a:visited {
+color:#FFFFFF;
+text-decoration:none;
+}
+a:hover {
+color:#FFFFFF;
+text-decoration:none;
+}
+a:active {
+color:#FFFFFF;
+text-decoration:none;
+}

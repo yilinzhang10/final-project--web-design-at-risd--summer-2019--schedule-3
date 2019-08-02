@@ -1,0 +1,31 @@
+/* .homepage{
+   margin-left: 300px;
+   } */
+body{
+   font-weight: 700;
+   font-size: 300px;
+   color:white;
+   font-family: univers LT Std, regular;
+   margin-left: 450px;
+   margin-top: 300px;
+   background-color:black;
+   background-size:1450px 1250px;
+   background-attachment:inherit;
+
+}
+a:link {
+color:#FFFFFF;
+text-decoration:none;
+}
+a:visited {
+color:#FFFFFF;
+text-decoration:none;
+}
+a:hover {
+color:#FFFFFF;
+text-decoration:none;
+}
+a:active {
+color:#FFFFFF;
+text-decoration:none;
+}
